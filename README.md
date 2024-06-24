@@ -40,8 +40,8 @@ This project involves extracting tables from websites. The goal is to parse HTML
 
 4. Run the script:
 
-   ``` 
-      python extract_tables.py <https://github.com/Chibuike-edmund/Automate_With_Python/tree/main/Project%20%231>
+   ```
+      python extract_tables.py
 
 Links:
 
@@ -50,7 +50,7 @@ Links:
 [Source Code](https://github.com/Chibuike-edmund/Automate_With_Python/blob/main/Project%20%231/Extract%20CSV%20files%20and%20Tables%20from%20Websites.ipynb)
 
 
-[## Project #2: Downloading a YouTube Playlist](https://github.com/Chibuike-edmund/Automate_With_Python/tree/main/Project%20-%20Extract%20MP3%20from%20MP4%20Video)
+[# Project #2: Downloading a YouTube Playlist](https://github.com/Chibuike-edmund/Automate_With_Python/tree/main/Project%20-%20Extract%20MP3%20from%20MP4%20Video)
 
 **Description:**
 
@@ -70,47 +70,20 @@ This project using ```ffmpeg-python```, you can extract high-quality audio from 
 
 1. Clone the repository:
    ```sh
-   git clone <repository-url>
-   
-**Usage:**
-
-1. Clone the repository:
-
-   ```
-   git clone <https://github.com/Chibuike-edmund/Automate_With_Python/tree/main/Project%20%231>
-
+   git clone <https://github.com/Chibuike-edmund/Automate_With_Python/tree/main/Project%20-%20Extract%20MP3%20from%20MP4%20Video>
 
 2. Navigate to the project directory:
 
    ```
-     cd Project - Extract CSV files and Tables from Websites
+     cd Project - Extract MP3 from MP4 Video
 
 3. Install the required dependencies:
 
   ```
     pip install -r requirements.txt
 
+
 4. Run the script:
 
    ``` 
-      python extract_tables.py <https://github.com/Chibuike-edmund/Automate_With_Python/tree/main/Project%20%231>
-
-Links:
-
-[Detailed Documentation](https://github.com/Chibuike-edmund/Automate_With_Python/tree/main/Project%20%231#readme)
-
-[Source Code](https://github.com/Chibuike-edmund/Automate_With_Python/blob/main/Project%20%231/Extract%20CSV%20files%20and%20Tables%20from%20Websites.ipynb)
-
-Project #2: 
-Description:
-This project provides a script to download all videos from a YouTube playlist using Python. It utilizes the pytube library for downloading the videos.
-
-Features:
-
-Download all videos from a specified YouTube playlist.
-Save videos to a specified directory.
-Handle errors and retry failed downloads.
-Usage:
-
-Clone the repository:
-sh
+      python Extract_Audio.py
