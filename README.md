@@ -9,7 +9,7 @@ This repository contains multiple projects focusing on different tasks. Below is
 1. [Project #1: Table Extraction](#project-1-table-extraction)
 2. [Project #2: Downloading a YouTube Playlist](#project-2-downloading-a-youtube-playlist)
 
-## Project #1: Table Extraction
+[## Project #1: Table Extraction](https://github.com/Chibuike-edmund/Automate_With_Python/tree/main/Project%20-%20Extract%20CSV%20files%20and%20Tables%20from%20Websites)
 
 **Description:**
 This project involves extracting tables from websites. The goal is to parse HTML content and identify table structures to extract relevant data.
